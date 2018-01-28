@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace TaxHelper
+namespace TaxLib
 {
     class Program
     {
